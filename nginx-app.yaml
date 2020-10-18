@@ -5,7 +5,7 @@ metadata:
   namespace: gitops
   annotations:
     environment: prod
-    organization: marketing
+    organization: sales
 spec:
   selector:
     matchLabels:
