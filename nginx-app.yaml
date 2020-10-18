@@ -4,7 +4,7 @@ metadata:
     namespace: gitops
     name: nginx-app-vol
 data:
-    index.html: <h1>hello world Romani</h1>
+    index.html: <h1>hello world Romani2</h1>
 ---
 kind: Deployment
 apiVersion: apps/v1
